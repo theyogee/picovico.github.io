@@ -1,8 +1,8 @@
-#Terms of Use
+>#Terms of Use
 
-1. These Terms of Service (&quot;Terms&quot;) are a legal agreement between Picovico Inc.(&quot;Picovico&quot; or &quot;we&quot;) and you (&quot;you&quot; or &quot;users&quot;). By using or accessing Picovico Application (&quot;Service&quot;), you agree to be bound by these Terms. By accessing or using the Service, you agree that you have read understood, and accepted to be bound by the Terms. Picovico reserves the right, in its sole discretion, modify or revise these Terms at any time, and you agree to be bound by such modifications or revisions. If you do not agree to the Terms, do not use the Service. You are responsible for checking the Terms periodically for new information and terms. Your continued use of the Service after a change or update has been made will constitute your acceptance to the revised Terms. If you do not agree the Terms your only remedy is to discontinue your use of the Service and cancel any accounts you have made using the Service.
-2. You agree that Picovico may discontinue the Service or change the content of the Service at any time, for any reason, with or without notice to you, without liability.
-3. You represent that you are 13 years old or older.
+>1. These Terms of Service (&quot;Terms&quot;) are a legal agreement between Picovico Inc.(&quot;Picovico&quot; or &quot;we&quot;) and you (&quot;you&quot; or &quot;users&quot;). By using or accessing Picovico Application (&quot;Service&quot;), you agree to be bound by these Terms. By accessing or using the Service, you agree that you have read understood, and accepted to be bound by the Terms. Picovico reserves the right, in its sole discretion, modify or revise these Terms at any time, and you agree to be bound by such modifications or revisions. If you do not agree to the Terms, do not use the Service. You are responsible for checking the Terms periodically for new information and terms. Your continued use of the Service after a change or update has been made will constitute your acceptance to the revised Terms. If you do not agree the Terms your only remedy is to discontinue your use of the Service and cancel any accounts you have made using the Service.
+>2. You agree that Picovico may discontinue the Service or change the content of the Service at any time, for any reason, with or without notice to you, without liability.
+>3. You represent that you are 13 years old or older.
 
 ###MODIFICATIONS TO THE SERVICE AND PRICES
 

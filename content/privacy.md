@@ -1,6 +1,6 @@
-#Privacy Policy
+>#Privacy Policy
 
-This privacy policy sets out how Picovico Inc. uses and protects any information that you give when you use this website. **Picovico is a video slideshow creating platform.** and is committed to ensure that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Picovico may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 24, 2011.
+>This privacy policy sets out how Picovico Inc. uses and protects any information that you give when you use this website. **Picovico is a video slideshow creating platform.** and is committed to ensure that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Picovico may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 24, 2011.
 
 ###What we collect?
 
