@@ -12,7 +12,7 @@ Generally it takes 1-2 minute to process a video. But at times it may take longe
 	
 ###What is the maximum length of video that I can make?
 
-At present we are limiting the maximum numbers of photo uploads per video to 30. This will yield a video of maximum 3 minutes. Drop us a mail at ineedit@picovico.com if you need beyond this.
+At present we are limiting the maximum numbers of photo uploads per video to 30. This will yield a video of maximum 3 minutes. Drop us a mail at [ineedit@picovico.com](ineedit@picovico.com) if you need beyond this.
 	
 	
 ###What is the quality of video?
