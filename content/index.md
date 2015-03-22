@@ -1,5 +1,5 @@
 #Picovico
-## Convert Photos into Videos
+##Convert Photos into Videos
 
-## Static Content pages
-
+Picovico is an online platform which converts photos into videos / slideshows. 
+This repo contains static files used throughout the application.
